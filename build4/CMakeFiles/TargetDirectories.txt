@@ -1,0 +1,5 @@
+/home/lamiae/Downloads/transpiler-main/build4/CMakeFiles/antlr4cpp.dir
+/home/lamiae/Downloads/transpiler-main/build4/CMakeFiles/antlr4cpp_generation_antlrcpptest.dir
+/home/lamiae/Downloads/transpiler-main/build4/CMakeFiles/AlfaToSol.dir
+/home/lamiae/Downloads/transpiler-main/build4/CMakeFiles/edit_cache.dir
+/home/lamiae/Downloads/transpiler-main/build4/CMakeFiles/rebuild_cache.dir

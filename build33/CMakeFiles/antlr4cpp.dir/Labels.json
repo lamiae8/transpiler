@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/lamiae/Downloads/transpiler-main/build3/CMakeFiles/antlr4cpp"
+		},
+		{
+			"file" : "/home/lamiae/Downloads/transpiler-main/build3/CMakeFiles/antlr4cpp.rule"
+		},
+		{
+			"file" : "/home/lamiae/Downloads/transpiler-main/build3/CMakeFiles/antlr4cpp-complete.rule"
+		},
+		{
+			"file" : "/home/lamiae/Downloads/transpiler-main/build3/antlr4cpp-prefix/src/antlr4cpp-stamp/antlr4cpp-build.rule"
+		},
+		{
+			"file" : "/home/lamiae/Downloads/transpiler-main/build3/antlr4cpp-prefix/src/antlr4cpp-stamp/antlr4cpp-configure.rule"
+		},
+		{
+			"file" : "/home/lamiae/Downloads/transpiler-main/build3/antlr4cpp-prefix/src/antlr4cpp-stamp/antlr4cpp-download.rule"
+		},
+		{
+			"file" : "/home/lamiae/Downloads/transpiler-main/build3/antlr4cpp-prefix/src/antlr4cpp-stamp/antlr4cpp-install.rule"
+		},
+		{
+			"file" : "/home/lamiae/Downloads/transpiler-main/build3/antlr4cpp-prefix/src/antlr4cpp-stamp/antlr4cpp-mkdir.rule"
+		},
+		{
+			"file" : "/home/lamiae/Downloads/transpiler-main/build3/antlr4cpp-prefix/src/antlr4cpp-stamp/antlr4cpp-patch.rule"
+		},
+		{
+			"file" : "/home/lamiae/Downloads/transpiler-main/build3/antlr4cpp-prefix/src/antlr4cpp-stamp/antlr4cpp-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"antlr4cpp"
+		],
+		"name" : "antlr4cpp"
+	}
+}

@@ -1,0 +1,13 @@
+# Target labels
+ antlr4cpp
+# Source files and their labels
+/home/lamiae/Downloads/transpiler-main/build22/CMakeFiles/antlr4cpp
+/home/lamiae/Downloads/transpiler-main/build22/CMakeFiles/antlr4cpp.rule
+/home/lamiae/Downloads/transpiler-main/build22/CMakeFiles/antlr4cpp-complete.rule
+/home/lamiae/Downloads/transpiler-main/build22/antlr4cpp-prefix/src/antlr4cpp-stamp/antlr4cpp-build.rule
+/home/lamiae/Downloads/transpiler-main/build22/antlr4cpp-prefix/src/antlr4cpp-stamp/antlr4cpp-configure.rule
+/home/lamiae/Downloads/transpiler-main/build22/antlr4cpp-prefix/src/antlr4cpp-stamp/antlr4cpp-download.rule
+/home/lamiae/Downloads/transpiler-main/build22/antlr4cpp-prefix/src/antlr4cpp-stamp/antlr4cpp-install.rule
+/home/lamiae/Downloads/transpiler-main/build22/antlr4cpp-prefix/src/antlr4cpp-stamp/antlr4cpp-mkdir.rule
+/home/lamiae/Downloads/transpiler-main/build22/antlr4cpp-prefix/src/antlr4cpp-stamp/antlr4cpp-patch.rule
+/home/lamiae/Downloads/transpiler-main/build22/antlr4cpp-prefix/src/antlr4cpp-stamp/antlr4cpp-update.rule
